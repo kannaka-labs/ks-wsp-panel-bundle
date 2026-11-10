@@ -1,0 +1,2396 @@
+{
+"c000": {
+"item": "00-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c001": {
+"item": "01-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c002": {
+"item": "06-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c003": {
+"item": "18-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c004": {
+"item": "23-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c005": {
+"item": "23-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c006": {
+"item": "22-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c007": {
+"item": "26-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c008": {
+"item": "26-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c009": {
+"item": "23-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c010": {
+"item": "25-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c011": {
+"item": "06-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c012": {
+"item": "19-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c013": {
+"item": "11-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c014": {
+"item": "06-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c015": {
+"item": "02-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c016": {
+"item": "05-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c017": {
+"item": "14-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c018": {
+"item": "29-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c019": {
+"item": "24-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c020": {
+"item": "05-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c021": {
+"item": "14-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c022": {
+"item": "08-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c023": {
+"item": "16-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c024": {
+"item": "16-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c025": {
+"item": "26-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c026": {
+"item": "05-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c027": {
+"item": "01-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c028": {
+"item": "16-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c029": {
+"item": "07-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c030": {
+"item": "05-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c031": {
+"item": "21-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c032": {
+"item": "16-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c033": {
+"item": "21-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c034": {
+"item": "11-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c035": {
+"item": "07-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c036": {
+"item": "11-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c037": {
+"item": "02-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c038": {
+"item": "19-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c039": {
+"item": "23-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c040": {
+"item": "10-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c041": {
+"item": "07-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c042": {
+"item": "03-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c043": {
+"item": "20-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c044": {
+"item": "18-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c045": {
+"item": "09-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c046": {
+"item": "03-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c047": {
+"item": "16-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c048": {
+"item": "04-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c049": {
+"item": "23-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c050": {
+"item": "23-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c051": {
+"item": "22-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c052": {
+"item": "17-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c053": {
+"item": "00-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c054": {
+"item": "20-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c055": {
+"item": "15-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c056": {
+"item": "21-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c057": {
+"item": "18-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c058": {
+"item": "09-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c059": {
+"item": "09-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c060": {
+"item": "16-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c061": {
+"item": "01-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c062": {
+"item": "22-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c063": {
+"item": "29-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c064": {
+"item": "20-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c065": {
+"item": "28-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c066": {
+"item": "09-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c067": {
+"item": "15-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c068": {
+"item": "07-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c069": {
+"item": "11-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c070": {
+"item": "16-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c071": {
+"item": "14-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c072": {
+"item": "12-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c073": {
+"item": "03-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c074": {
+"item": "12-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c075": {
+"item": "08-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c076": {
+"item": "06-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c077": {
+"item": "28-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c078": {
+"item": "26-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c079": {
+"item": "27-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c080": {
+"item": "10-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c081": {
+"item": "05-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c082": {
+"item": "26-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c083": {
+"item": "19-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c084": {
+"item": "19-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c085": {
+"item": "17-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c086": {
+"item": "22-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c087": {
+"item": "17-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c088": {
+"item": "18-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c089": {
+"item": "12-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c090": {
+"item": "05-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c091": {
+"item": "25-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c092": {
+"item": "10-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c093": {
+"item": "02-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c094": {
+"item": "08-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c095": {
+"item": "29-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c096": {
+"item": "17-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c097": {
+"item": "20-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c098": {
+"item": "28-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c099": {
+"item": "11-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c100": {
+"item": "22-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c101": {
+"item": "03-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c102": {
+"item": "09-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c103": {
+"item": "09-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c104": {
+"item": "17-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c105": {
+"item": "22-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c106": {
+"item": "17-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c107": {
+"item": "00-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c108": {
+"item": "24-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c109": {
+"item": "02-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c110": {
+"item": "04-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c111": {
+"item": "24-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c112": {
+"item": "22-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c113": {
+"item": "20-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c114": {
+"item": "27-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c115": {
+"item": "00-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c116": {
+"item": "21-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c117": {
+"item": "29-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c118": {
+"item": "25-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c119": {
+"item": "22-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c120": {
+"item": "00-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c121": {
+"item": "27-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c122": {
+"item": "18-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c123": {
+"item": "12-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c124": {
+"item": "14-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c125": {
+"item": "11-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c126": {
+"item": "00-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c127": {
+"item": "03-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c128": {
+"item": "16-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c129": {
+"item": "07-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c130": {
+"item": "29-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c131": {
+"item": "08-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c132": {
+"item": "05-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c133": {
+"item": "19-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c134": {
+"item": "14-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c135": {
+"item": "20-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c136": {
+"item": "15-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c137": {
+"item": "25-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c138": {
+"item": "21-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c139": {
+"item": "26-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c140": {
+"item": "09-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c141": {
+"item": "02-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c142": {
+"item": "08-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c143": {
+"item": "02-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c144": {
+"item": "21-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c145": {
+"item": "11-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c146": {
+"item": "10-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c147": {
+"item": "02-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c148": {
+"item": "05-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c149": {
+"item": "19-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c150": {
+"item": "28-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c151": {
+"item": "23-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c152": {
+"item": "05-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c153": {
+"item": "19-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c154": {
+"item": "12-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c155": {
+"item": "14-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c156": {
+"item": "29-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c157": {
+"item": "15-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c158": {
+"item": "12-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c159": {
+"item": "07-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c160": {
+"item": "24-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c161": {
+"item": "02-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c162": {
+"item": "23-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c163": {
+"item": "19-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c164": {
+"item": "17-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c165": {
+"item": "23-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c166": {
+"item": "18-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c167": {
+"item": "21-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c168": {
+"item": "28-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c169": {
+"item": "14-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c170": {
+"item": "26-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c171": {
+"item": "04-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c172": {
+"item": "24-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c173": {
+"item": "01-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c174": {
+"item": "28-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c175": {
+"item": "10-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c176": {
+"item": "03-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c177": {
+"item": "29-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c178": {
+"item": "24-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c179": {
+"item": "01-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c180": {
+"item": "06-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c181": {
+"item": "19-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c182": {
+"item": "10-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c183": {
+"item": "25-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c184": {
+"item": "23-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c185": {
+"item": "15-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c186": {
+"item": "07-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c187": {
+"item": "14-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c188": {
+"item": "20-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c189": {
+"item": "25-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c190": {
+"item": "21-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c191": {
+"item": "07-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c192": {
+"item": "05-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c193": {
+"item": "07-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c194": {
+"item": "02-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c195": {
+"item": "29-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c196": {
+"item": "21-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c197": {
+"item": "16-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c198": {
+"item": "24-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c199": {
+"item": "07-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c200": {
+"item": "25-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c201": {
+"item": "02-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c202": {
+"item": "04-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c203": {
+"item": "06-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c204": {
+"item": "22-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c205": {
+"item": "08-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c206": {
+"item": "12-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c207": {
+"item": "18-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c208": {
+"item": "20-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c209": {
+"item": "09-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c210": {
+"item": "07-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c211": {
+"item": "27-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c212": {
+"item": "20-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c213": {
+"item": "17-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c214": {
+"item": "17-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c215": {
+"item": "00-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c216": {
+"item": "14-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c217": {
+"item": "05-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c218": {
+"item": "15-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c219": {
+"item": "06-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c220": {
+"item": "23-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c221": {
+"item": "20-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c222": {
+"item": "01-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c223": {
+"item": "25-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c224": {
+"item": "12-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c225": {
+"item": "01-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c226": {
+"item": "04-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c227": {
+"item": "00-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c228": {
+"item": "10-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c229": {
+"item": "26-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c230": {
+"item": "16-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c231": {
+"item": "12-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c232": {
+"item": "11-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c233": {
+"item": "06-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c234": {
+"item": "03-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c235": {
+"item": "06-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c236": {
+"item": "02-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c237": {
+"item": "22-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c238": {
+"item": "21-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c239": {
+"item": "03-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c240": {
+"item": "03-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c241": {
+"item": "11-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c242": {
+"item": "03-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c243": {
+"item": "09-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c244": {
+"item": "09-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c245": {
+"item": "22-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c246": {
+"item": "28-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c247": {
+"item": "28-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c248": {
+"item": "19-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c249": {
+"item": "04-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c250": {
+"item": "15-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c251": {
+"item": "00-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c252": {
+"item": "03-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c253": {
+"item": "28-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c254": {
+"item": "15-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c255": {
+"item": "24-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c256": {
+"item": "02-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c257": {
+"item": "14-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c258": {
+"item": "11-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c259": {
+"item": "08-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c260": {
+"item": "10-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c261": {
+"item": "21-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c262": {
+"item": "06-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c263": {
+"item": "17-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c264": {
+"item": "11-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c265": {
+"item": "12-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c266": {
+"item": "18-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c267": {
+"item": "10-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c268": {
+"item": "29-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c269": {
+"item": "22-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c270": {
+"item": "18-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c271": {
+"item": "04-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c272": {
+"item": "15-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c273": {
+"item": "11-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c274": {
+"item": "00-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c275": {
+"item": "08-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c276": {
+"item": "15-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c277": {
+"item": "04-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c278": {
+"item": "08-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c279": {
+"item": "21-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c280": {
+"item": "07-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c281": {
+"item": "04-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c282": {
+"item": "26-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c283": {
+"item": "01-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c284": {
+"item": "18-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c285": {
+"item": "14-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c286": {
+"item": "03-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c287": {
+"item": "23-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c288": {
+"item": "05-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c289": {
+"item": "00-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c290": {
+"item": "12-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c291": {
+"item": "25-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c292": {
+"item": "17-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c293": {
+"item": "27-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c294": {
+"item": "18-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c295": {
+"item": "01-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c296": {
+"item": "26-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c297": {
+"item": "10-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c298": {
+"item": "00-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c299": {
+"item": "10-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c300": {
+"item": "04-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c301": {
+"item": "15-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c302": {
+"item": "25-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c303": {
+"item": "19-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c304": {
+"item": "14-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c305": {
+"item": "15-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c306": {
+"item": "20-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c307": {
+"item": "01-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c308": {
+"item": "28-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c309": {
+"item": "27-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c310": {
+"item": "24-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c311": {
+"item": "24-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c312": {
+"item": "10-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c313": {
+"item": "01-t0.7",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c314": {
+"item": "26-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c315": {
+"item": "29-greedy",
+"comp": "P",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "L1"
+},
+"c316": {
+"item": "28-greedy",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c317": {
+"item": "20-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c318": {
+"item": "08-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c319": {
+"item": "06-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c320": {
+"item": "01-greedy",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c321": {
+"item": "29-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c322": {
+"item": "06-t0.7",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c323": {
+"item": "04-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c324": {
+"item": "12-t0.7",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c325": {
+"item": "09-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c326": {
+"item": "09-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c327": {
+"item": "25-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c328": {
+"item": "16-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c329": {
+"item": "29-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c330": {
+"item": "16-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c331": {
+"item": "17-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c332": {
+"item": "24-t0.7",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c333": {
+"item": "19-t0.7",
+"comp": "P",
+"order": 0,
+"A_arm": "L1",
+"B_arm": "L2"
+},
+"c334": {
+"item": "26-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c335": {
+"item": "25-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c336": {
+"item": "04-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c337": {
+"item": "28-greedy",
+"comp": "A1",
+"order": 1,
+"A_arm": "L1",
+"B_arm": "base"
+},
+"c338": {
+"item": "24-greedy",
+"comp": "A2",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L2"
+},
+"c339": {
+"item": "18-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+},
+"c340": {
+"item": "08-greedy",
+"comp": "A2",
+"order": 1,
+"A_arm": "L2",
+"B_arm": "base"
+},
+"c341": {
+"item": "08-t0.7",
+"comp": "A1",
+"order": 0,
+"A_arm": "base",
+"B_arm": "L1"
+}
+}

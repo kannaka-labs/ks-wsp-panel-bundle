@@ -1,0 +1,331 @@
+{
+ "utc_start": "2026-11-09T14:23:22Z",
+ "matched_sha256": "b0cd8e2928207d66d5a66b303f46599c8436843f08e28e395700a23a09ef651f",
+ "pub_guard_sha256": "d576ce17bf98a1239be63f330b8714abbc6391b8ee69fa8eded6ba524b4bfd26",
+ "fp_sha256": "4c1374fdc371204545d7551a9eb76794a70706895bfc2e8e2ba9696dab165cf2",
+ "items": [
+  {
+   "item": "00-greedy",
+   "arms_blocked": [
+    "L1"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "00-t0.7",
+   "arms_blocked": [
+    "base"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "01-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "01-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "02-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "02-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "03-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "03-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "04-greedy",
+   "arms_blocked": [
+    "L1"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "04-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "05-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "05-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "06-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "06-t0.7",
+   "arms_blocked": [
+    "L2"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "07-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "07-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "08-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "08-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "09-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "09-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "10-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "10-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "11-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "11-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "12-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "12-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "14-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "14-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "15-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "15-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "16-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "16-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "17-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "17-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "18-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "18-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "19-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "19-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "20-greedy",
+   "arms_blocked": [
+    "base",
+    "L1",
+    "L2"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "20-t0.7",
+   "arms_blocked": [
+    "base",
+    "L1",
+    "L2"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "21-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "21-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "22-greedy",
+   "arms_blocked": [
+    "L1"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "22-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "23-greedy",
+   "arms_blocked": [
+    "L2"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "23-t0.7",
+   "arms_blocked": [
+    "L1",
+    "L2"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "24-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "24-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "25-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "25-t0.7",
+   "arms_blocked": [
+    "L1"
+   ],
+   "blocked": true
+  },
+  {
+   "item": "26-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "26-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "27-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "28-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "28-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "29-greedy",
+   "arms_blocked": [],
+   "blocked": false
+  },
+  {
+   "item": "29-t0.7",
+   "arms_blocked": [],
+   "blocked": false
+  }
+ ],
+ "per_arm_blocked": {
+  "base": 3,
+  "L1": 7,
+  "L2": 5
+ },
+ "errors": 0,
+ "n_items": 57,
+ "n_blocked": 10,
+ "n_clean": 47,
+ "blocked_share": 0.17543859649122806,
+ "hosted_allowed": true,
+ "utc_end": "2026-11-09T14:23:52Z",
+ "rule": "item blocked if any of its three texts has any pub_guard block (exit 1); >25% blocked -> hosted judging does not run (32 s2)"
+}

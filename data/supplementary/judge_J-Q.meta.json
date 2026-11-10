@@ -1,0 +1,16 @@
+{
+ "judge": "J-Q",
+ "model": "qwen2.5:14b",
+ "packet_sha256": "aef7140ad32df63ff5eae74507506d5d5c510822e45f43120c2cb8e6033d34a0",
+ "started_utc": "2026-11-09T14:24:28Z",
+ "pin": "qwen2.5:14b",
+ "spent_usd": 0.0,
+ "status": "done",
+ "excluded": null,
+ "invalid": 0,
+ "n_calls_done": 342,
+ "digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+ "pin_utc": "2026-11-09T14:25:31Z",
+ "n_calls_target": 342,
+ "updated_utc": "2026-11-09T16:11:35Z"
+}

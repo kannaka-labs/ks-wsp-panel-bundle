@@ -1,0 +1,15 @@
+{
+ "judge": "J-G",
+ "model": "z-ai/glm-5.3",
+ "packet_sha256": "aef7140ad32df63ff5eae74507506d5d5c510822e45f43120c2cb8e6033d34a0",
+ "started_utc": "2026-11-09T14:24:27Z",
+ "pin": "z-ai/glm-5.3",
+ "spent_usd": 0.12339533349999995,
+ "status": "done",
+ "excluded": null,
+ "invalid": 0,
+ "n_calls_done": 282,
+ "pin_utc": "2026-11-09T14:24:29Z",
+ "n_calls_target": 282,
+ "updated_utc": "2026-11-09T14:41:47Z"
+}

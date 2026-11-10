@@ -1,0 +1,22 @@
+{
+ "utc": "2026-11-09T14:24:03Z",
+ "matched_sha256": "b0cd8e2928207d66d5a66b303f46599c8436843f08e28e395700a23a09ef651f",
+ "leakgate_sha256": "3d9502fbc814ac7d5bbf87afa5dc07dd9aa9dce326f615154ec3a2cc8cecedfa",
+ "prompts_sha256": "2d4e02e1572632ac8c4f758c2432726eafc5a174b20498a7d483556bd3246678",
+ "card_sha256": "e24974b5b143bfeffc7a37edbf833304adc5e98b0912702f16f6748b630643cc",
+ "packet_sha256": "aef7140ad32df63ff5eae74507506d5d5c510822e45f43120c2cb8e6033d34a0",
+ "key_sha256": "ef431e815251511eeb768bdae252160c8179e4ef1aca11cfb9df79e3d16aff32",
+ "n_items": 57,
+ "n_clean": 47,
+ "n_blocked": 10,
+ "n_calls": 342,
+ "n_calls_hosted": 282,
+ "hosted_allowed": true,
+ "preconditions": {
+  "matched_ge_40": true,
+  "clean_ge_40": true,
+  "leak_gate_le_25pct": true
+ },
+ "shuffle_seed": 20261112,
+ "panel_runs": true
+}

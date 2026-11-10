@@ -1,0 +1,15 @@
+{
+ "judge": "J-C",
+ "model": "agent-brain",
+ "packet_sha256": "aef7140ad32df63ff5eae74507506d5d5c510822e45f43120c2cb8e6033d34a0",
+ "started_utc": "2026-11-09T18:14:15Z",
+ "pin": "anthropic/claude-sonnet-4-5|34592f77273c32c7104dc2f2946f3d19b35f89ad863650b2a87909dd27fcc6f6",
+ "spent_usd": 0.6816989999999995,
+ "status": "done",
+ "excluded": null,
+ "invalid": 0,
+ "n_calls_done": 282,
+ "pin_utc": "2026-11-09T18:14:17Z",
+ "n_calls_target": 282,
+ "updated_utc": "2026-11-09T18:25:32Z"
+}

@@ -1,0 +1,161 @@
+{
+ "n_items": 57,
+ "n_clean": 47,
+ "n_blocked": 10,
+ "judges": {
+  "J-C": {
+   "calls": 282,
+   "invalid": 0,
+   "invalid_rate": 0.0,
+   "status": "done",
+   "pin": "anthropic/claude-sonnet-4-5|34592f77273c32c7104dc2f2946f3d19b35f89ad863650b2a87909dd27fcc6f6",
+   "spent_usd": 0.6816989999999995,
+   "complete_on_clean": true,
+   "position_first_share_P": 0.5,
+   "ties_P": 26,
+   "pre_excluded": null,
+   "S_clean": [
+    -0.40425531914893614,
+    -0.5543478260869565,
+    -0.2608695652173913
+   ],
+   "anchor_share_clean": [
+    0.675531914893617,
+    0.58,
+    0.7712765957446809
+   ]
+  },
+  "J-G": {
+   "calls": 282,
+   "invalid": 0,
+   "invalid_rate": 0.0,
+   "status": "done",
+   "pin": "z-ai/glm-5.3",
+   "spent_usd": 0.12339533349999995,
+   "complete_on_clean": true,
+   "position_first_share_P": 0.5818181818181818,
+   "ties_P": 39,
+   "pre_excluded": null,
+   "S_clean": [
+    -0.30851063829787234,
+    -0.46511627906976744,
+    -0.16
+   ],
+   "anchor_share_clean": [
+    0.6329787234042553,
+    0.5353260869565217,
+    0.729594803037494
+   ]
+  }
+ },
+ "inputs": {
+  "matched": "b0cd8e2928207d66d5a66b303f46599c8436843f08e28e395700a23a09ef651f",
+  "leakgate": "3d9502fbc814ac7d5bbf87afa5dc07dd9aa9dce326f615154ec3a2cc8cecedfa",
+  "key": "ef431e815251511eeb768bdae252160c8179e4ef1aca11cfb9df79e3d16aff32",
+  "build": "15c379a12063ecb42504643576ec70a6497768495316045b981a9d867e76f396",
+  "panel_sim": "6def10dc1510c93dd3225301335aee5b161c51fe92acb0cb9f5032d6b67b2337",
+  "judge_J-C": "6823f31d883784a568b7ea1ab1e55ca6e9489a3e78e98ee52eb99ebe2e58808d",
+  "judge_J-G": "6f521518c506c63fa24c5e693056ed3d540f9b10f2835bee14fbb5e3ad927945"
+ },
+ "eligible": [
+  "J-C",
+  "J-G"
+ ],
+ "band_raw": "L1_PREFERRED",
+ "band": "L1 CLOSER TO THE CARD",
+ "decide_info": {
+  "anchor": [
+   0.654,
+   0.562
+  ],
+  "alpha_anchor": 0.659,
+  "S": [
+   -0.356,
+   -0.495,
+   -0.221
+  ]
+ },
+ "retained": [
+  "J-C",
+  "J-G"
+ ],
+ "position_excluded": [],
+ "S": [
+  -0.35638297872340424,
+  -0.5,
+  -0.22340425531914893
+ ],
+ "S_quality": [
+  0.047872340425531915,
+  -0.10717787114845935,
+  0.20212765957446807
+ ],
+ "S_greedy": [
+  -0.3958333333333333,
+  -0.5729166666666666,
+  -0.20833333333333334
+ ],
+ "S_t0.7": [
+  -0.31521739130434784,
+  -0.5217391304347826,
+  -0.10869565217391304
+ ],
+ "S_no_early_stop": [
+  -0.28125,
+  -0.4861111111111111,
+  -0.08823529411764706
+ ],
+ "n_no_early_stop": 16,
+ "anchor_share": [
+  0.6542553191489362,
+  0.5625,
+  0.7432137488436632
+ ],
+ "anchor_share_no_early_stop": [
+  0.7734375,
+  0.6634615384615384,
+  0.8708463541666664
+ ],
+ "anchor_lojo": {
+  "J-C": [
+   0.6329787234042553,
+   0.5353260869565217,
+   0.729594803037494
+  ],
+  "J-G": [
+   0.675531914893617,
+   0.58,
+   0.7712765957446809
+  ]
+ },
+ "S_lojo": {
+  "J-C": [
+   -0.30851063829787234,
+   -0.46511627906976744,
+   -0.16
+  ],
+  "J-G": [
+   -0.40425531914893614,
+   -0.5543478260869565,
+   -0.2608695652173913
+  ]
+ },
+ "alpha_anchor": [
+  0.6593117408906882,
+  0.4998271103879101,
+  0.7725603565487686
+ ],
+ "alpha_P": 0.5803540437348143,
+ "suffixes": [],
+ "length": {
+  "early_stop_rate_matched": {
+   "base": 0.5263157894736842,
+   "L1": 0.42105263157894735,
+   "L2": 0.3684210526315789
+  },
+  "items_with_any_early_stop_clean": 31,
+  "n_clean": 47
+ },
+ "pre_excluded": {},
+ "amendment": "40-panel-amendment-1.md"
+}
